@@ -1,5 +1,6 @@
 # Getting-and-Cleaning-Data
-## run_analysis.  Created by Robert Beckman on 8/23/2015.
+## run_analysis.
+### Created by Robert Beckman on 8/23/2015.
 This function will merge the training and the test sets 
 from the Human Activity Recognition Using Smartphones Data Set
 (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
