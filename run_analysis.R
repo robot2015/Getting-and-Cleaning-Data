@@ -83,9 +83,9 @@ run_analysis <- function() {
   # From the data set in step 4, creates a second, independent tidy data set 
   # with the average of each variable for each activity and each subject.
   # stack data.
-  harData.labels.stack <- harData.sub[rep(row.names(harData.sub), 79), 2:3]
+  harData.labels.stack <- harData.sub[rep(row.names(harData.sub), 86), 2:3]
   row.names(harData.labels.stack) <- NULL
-  harData.sub.stack <- stack(harData.sub[, 4:82])
+  harData.sub.stack <- stack(harData.sub[, 4:89])
   colnames(harData.sub.stack) <- c("Value", "Parameter")
   
   harData2 <- cbind(harData.labels.stack, harData.sub.stack)
