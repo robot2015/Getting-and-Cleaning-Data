@@ -73,8 +73,8 @@ run_analysis <- function() {
   ## Extracts only the measurements on the mean and standard deviation for each measurement.
   harNames <- colnames(harData)
   labelCols <- as.integer(1:3)
-  meanCols <- grep("mean()", harNames)
-  stdCols <- grep("std()", harNames)
+  meanCols <- grep("mean", harNames, ignore.case = TRUE)
+  stdCols <- grep("std", harNames, ignore.case = TRUE)
   saveCols <- c(labelCols, meanCols, stdCols)
   saveCols <- sort(saveCols)
   
