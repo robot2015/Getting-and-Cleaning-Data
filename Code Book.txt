@@ -1,0 +1,87 @@
+Parameter	Description	Unit
+tBodyAcc-mean()-X	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAcc-mean()-Y	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAcc-mean()-Z	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAcc-std()-X	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAcc-std()-Y	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAcc-std()-Z	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tGravityAcc-mean()-X	The acceleration signal from the smartphone accelerometer X axis.	g
+tGravityAcc-mean()-Y	The acceleration signal from the smartphone accelerometer X axis.	g
+tGravityAcc-mean()-Z	The acceleration signal from the smartphone accelerometer X axis.	g
+tGravityAcc-std()-X	The acceleration signal from the smartphone accelerometer X axis.	g
+tGravityAcc-std()-Y	The acceleration signal from the smartphone accelerometer X axis.	g
+tGravityAcc-std()-Z	The acceleration signal from the smartphone accelerometer X axis.	g
+tBodyAccJerk-mean()-X	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAccJerk-mean()-Y	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAccJerk-mean()-Z	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAccJerk-std()-X	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAccJerk-std()-Y	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAccJerk-std()-Z	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyGyro-mean()-X	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyro-mean()-Y	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyro-mean()-Z	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyro-std()-X	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyro-std()-Y	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyro-std()-Z	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyroJerk-mean()-X	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyroJerk-mean()-Y	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyroJerk-mean()-Z	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyroJerk-std()-X	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyroJerk-std()-Y	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyroJerk-std()-Z	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyAccMag-mean()	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAccMag-std()	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tGravityAccMag-mean()	The acceleration signal from the smartphone accelerometer X axis.	g
+tGravityAccMag-std()	The acceleration signal from the smartphone accelerometer X axis.	g
+tBodyAccJerkMag-mean()	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyAccJerkMag-std()	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+tBodyGyroMag-mean()	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyroMag-std()	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyroJerkMag-mean()	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+tBodyGyroJerkMag-std()	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyAcc-mean()-X	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAcc-mean()-Y	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAcc-mean()-Z	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAcc-std()-X	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAcc-std()-Y	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAcc-std()-Z	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAcc-meanFreq()-X	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAcc-meanFreq()-Y	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAcc-meanFreq()-Z	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccJerk-mean()-X	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccJerk-mean()-Y	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccJerk-mean()-Z	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccJerk-std()-X	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccJerk-std()-Y	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccJerk-std()-Z	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccJerk-meanFreq()-X	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccJerk-meanFreq()-Y	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccJerk-meanFreq()-Z	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyGyro-mean()-X	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyGyro-mean()-Y	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyGyro-mean()-Z	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyGyro-std()-X	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyGyro-std()-Y	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyGyro-std()-Z	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyGyro-meanFreq()-X	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyGyro-meanFreq()-Y	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyGyro-meanFreq()-Z	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyAccMag-mean()	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccMag-std()	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyAccMag-meanFreq()	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyBodyAccJerkMag-mean()	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyBodyAccJerkMag-std()	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyBodyAccJerkMag-meanFreq()	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+fBodyBodyGyroMag-mean()	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyBodyGyroMag-std()	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyBodyGyroMag-meanFreq()	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyBodyGyroJerkMag-mean()	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyBodyGyroJerkMag-std()	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+fBodyBodyGyroJerkMag-meanFreq()	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+angle(tBodyAccMean,gravity)	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+angle(tBodyAccJerkMean),gravityMean)	The body acceleration signal obtained by subtracting the gravity from the total acceleration.	g
+angle(tBodyGyroMean,gravityMean)	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+angle(tBodyGyroJerkMean,gravityMean)	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+angle(X,gravityMean)	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+angle(Y,gravityMean)	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
+angle(Z,gravityMean)	The angular velocity vector measured by the gyroscope for each window sample.	radians/second
